@@ -1,0 +1,7 @@
+{
+  "name": "NGA2021rocket",
+  "description": "Deploy NGA2021rocket to heroku",
+  "website": "https://github.com/nga2021/rocket/",
+  "repository": "https://github.com/nga2021/rocket/",
+  "success_url": "/"
+}
